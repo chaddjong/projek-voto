@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/projek-voto/static/css/main.d3592423.css",
+    "main.js": "/projek-voto/static/js/main.0b47c15c.js",
+    "static/media/bg-login.svg": "/projek-voto/static/media/bg-login.7139982a95d0e8090ee5b7e7ddf14dd1.svg",
+    "index.html": "/projek-voto/index.html",
+    "main.d3592423.css.map": "/projek-voto/static/css/main.d3592423.css.map",
+    "main.0b47c15c.js.map": "/projek-voto/static/js/main.0b47c15c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3592423.css",
+    "static/js/main.0b47c15c.js"
+  ]
+}
