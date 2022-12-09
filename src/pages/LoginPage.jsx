@@ -9,7 +9,7 @@ const LoginPage = () => {
       </div>
       <div className="flex h-min justify-center">
         <h1 className="text-7xl text-[#39374D] font-josefinsans mt-[5.25rem] z-10">
-          voto
+          .voto
           <span className="text-[#575A89] font-dmsans">.</span>
         </h1>
       </div>
